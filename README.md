@@ -1,6 +1,6 @@
 # Weekly Crystal
 
-<https://crystal-jp.github.io/weekly>
+<https://crystal-jp.github.io/weekly/>
 
 ## 開発方法
 
