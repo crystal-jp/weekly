@@ -10,3 +10,6 @@ docsifyはブラウザ上で動くので、静的にファイルを配信でき�
 ```console
 $ python3 -mhttp.server --directory docs
 ```
+## ライセンス
+
+このリポジトリの内容は[CC0-1.0](./LICENSE)の下で公開されています。
