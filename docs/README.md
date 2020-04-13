@@ -4,9 +4,9 @@
   (<a href="https://unsplash.com/photos/2k1mKSA23l4">Photo</a> by <a href="https://unsplash.com/@samuraig">Gabby Conde</a> on <a href="https://unsplash.com/">Unsplash</a>)
 </p>
 
-# Weekly Crystal
+# Weekly Crystal-JP
 
-> **Weekly Crystal**は週に一度に開催される、[プログラミング言語Crystal](https://crystal-lang.org/)のオンライン勉強会です。
+> **Weekly Crystal-JP**は週に一度に開催される、[プログラミング言語Crystal](https://crystal-lang.org/)のオンライン勉強会です。
 
 週に一度[Googleハングアウト](https://hangouts.google.com/)で集まり、次のようなことをしています。
 
@@ -27,7 +27,7 @@
 
 ## 次回予定
 
-Weekly Crystal #03 ([議事録](https://github.com/crystal-jp/weekly/issues/2))
+Weekly Crystal-JP #03 ([議事録](https://github.com/crystal-jp/weekly/issues/2))
 
 **2020年04月17日 (金) 20時**より
 
