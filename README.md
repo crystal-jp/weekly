@@ -1,10 +1,14 @@
 # Weekly Crystal-JP
 
-<https://crystal-jp.github.io/weekly/>
+週に一度、開催される[プログラミング言語Crystal](https://crystal-lang.org/)のオンライン勉強会です。
 
-## 開発方法
+Webサイト: <https://crystal-jp.github.io/weekly/>
 
-Weekly Crystal-JPではサイトジェネレータとして[docsify](https://docsify.js.org)を使っています。
+## Webサイトの開発方法
+
+Webサイトの内容は`docs/`以下にあります。
+
+このWebサイトではサイトジェネレータとして[docsify](https://docsify.js.org)を使っています。
 docsifyはブラウザ上で動くので、静的にファイルを配信できるサーバーがあれば動作します。
 
 ```console
