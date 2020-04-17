@@ -38,3 +38,4 @@ Weekly Crystal-JP #03 ([議事録](https://github.com/crystal-jp/weekly/issues/2
 
 - [#01 (2020/04/03開催)](./minutes/2020-04-03.md)
 - [#02 (2020/04/10開催)](./minutes/2020-04-10.md)
+- [#03 (2020/04/17開催)](./minutes/2020-04-17.md)
