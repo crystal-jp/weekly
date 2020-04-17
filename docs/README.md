@@ -6,7 +6,7 @@
 
 # Weekly Crystal-JP
 
-> **Weekly Crystal-JP**は週に一度、開催される[プログラミング言語Crystal](https://crystal-lang.org/)のオンライン勉強会です。
+> **Weekly Crystal-JP**は週に一度開催される、[プログラミング言語Crystal](https://crystal-lang.org/)のオンライン勉強会です。
 
 週に一度[Googleハングアウト](https://hangouts.google.com/)で集まり、次のようなことをしています。
 

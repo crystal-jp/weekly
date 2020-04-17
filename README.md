@@ -1,6 +1,6 @@
 # Weekly Crystal-JP
 
-週に一度、開催される[プログラミング言語Crystal](https://crystal-lang.org/)のオンライン勉強会です。
+週に一度開催される、[プログラミング言語Crystal](https://crystal-lang.org/)のオンライン勉強会です。
 
 Webサイト: <https://crystal-jp.github.io/weekly/>
 
