@@ -19,7 +19,7 @@
 
 ## 参加方法
 
-開催日の前日までに「#○○ 議事録」(○○には回数が入る)というタイトルのissueが[crystal-jp/weekly](https://github.com/crystal-jp/weekly/issues)に作られるので、そちらにコメントで参加表明をしてください。
+開催日の前日までに「開催準備#○○」(○○には回数が入る)というタイトルのissueが[crystal-jp/weekly](https://github.com/crystal-jp/weekly/issues)に作られるので、そちらにコメントで参加表明をしてください。
 
 開催当日は、[主催][@MakeNowJust]がそのissueに会場となるGoogleハングアウトのURLを貼ります。
 そちらから通話に参加してください。
@@ -28,7 +28,7 @@
 
 ## 次回予定
 
-Weekly Crystal-JP #05 ([議事録](https://github.com/crystal-jp/weekly/issues/3))
+Weekly Crystal-JP #05 ([開催準備issue](https://github.com/crystal-jp/weekly/issues/6))
 
 **2020年05月01日 (金) 20時**より
 
