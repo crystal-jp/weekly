@@ -28,9 +28,9 @@
 
 ## 次回予定
 
-Weekly Crystal-JP #04 ([議事録](https://github.com/crystal-jp/weekly/issues/3))
+Weekly Crystal-JP #05 ([議事録](https://github.com/crystal-jp/weekly/issues/3))
 
-**2020年04月24日 (金) 20時**より
+**2020年05月01日 (金) 20時**より
 
 開催時間は1時間程度を予定しています。
 
@@ -39,3 +39,4 @@ Weekly Crystal-JP #04 ([議事録](https://github.com/crystal-jp/weekly/issues/3
 - [#01 (2020/04/03開催)](/minutes/2020-04-03.md)
 - [#02 (2020/04/10開催)](/minutes/2020-04-10.md)
 - [#03 (2020/04/17開催)](/minutes/2020-04-17.md)
+- [#04 (2020/04/24開催)](/minutes/2020-04-24.md)
