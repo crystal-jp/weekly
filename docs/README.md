@@ -28,9 +28,9 @@
 
 ## 次回予定
 
-Weekly Crystal-JP #06 ([開催準備issue](https://github.com/crystal-jp/weekly/issues/7))
+Weekly Crystal-JP #07 ([開催準備issue](https://github.com/crystal-jp/weekly/issues/9))
 
-**2020年05月08日 (金) 20時**より
+**2020年05月16日 (土) 20時**より
 
 開催時間は1時間程度を予定しています。
 
