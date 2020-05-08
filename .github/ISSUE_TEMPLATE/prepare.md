@@ -22,6 +22,7 @@ about: 開催準備issueの雛形です。
 [@arcage]: https://github.com/arcage
 [@at-grandpa]: https://github.com/at-grandpa
 [@kubo39]: https://github.com/kubo39
+[@msky026]: https://github.com/msky026
 <!-- 過去に参加した人のリンクをここに追加していく -->
 
 # 注意
