@@ -41,3 +41,4 @@ Weekly Crystal-JP #06 ([開催準備issue](https://github.com/crystal-jp/weekly/
 - [#03 (2020/04/17開催)](/minutes/2020-04-17.md)
 - [#04 (2020/04/24開催)](/minutes/2020-04-24.md)
 - [#05 (2020/05/01開催)](/minutes/2020-05-01.md)
+- [#06 (2020/05/08開催)](/minutes/2020-05-08.md)
