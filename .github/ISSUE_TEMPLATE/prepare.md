@@ -18,14 +18,15 @@ about: 開催準備issueの雛形です。
 - [@MakeNowJust][] (主催)
 
 [@MakeNowJust]: https://github.com/MakeNowJust
-[@at-grandpa]: https://github.com/at-grandpa
 [@TobiasGSmollett]: https://github.com/TobiasGSmollett
 [@arcage]: https://github.com/arcage
+[@at-grandpa]: https://github.com/at-grandpa
+[@kubo39]: https://github.com/kubo39
 <!-- 過去に参加した人のリンクをここに追加していく -->
 
 # 注意
 
-このissueはWeekly Crystal #XXの準備・開催のためのものです。
+このissueはWeekly Crystal-JP #XXの準備・開催のためのものです。
 ここで、参加表明や注意喚起などを行います。
 
 参加したい方は事前にこのissueに「参加します」などとコメントをください。
