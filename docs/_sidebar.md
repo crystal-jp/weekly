@@ -5,3 +5,4 @@
   - [#04 (2020/04/24開催)](/minutes/2020-04-24.md "#04 - Weekly Crystal-JP")
   - [#05 (2020/05/01開催)](/minutes/2020-05-01.md "#05 - Weekly Crystal-JP")
   - [#06 (2020/05/08開催)](/minutes/2020-05-08.md "#06 - Weekly Crystal-JP")
+  - [#07 (2020/05/16開催)](/minutes/2020-05-16.md "#07 - Weekly Crystal-JP")
