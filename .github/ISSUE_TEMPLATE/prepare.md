@@ -23,6 +23,7 @@ about: 開催準備issueの雛形です。
 [@at-grandpa]: https://github.com/at-grandpa
 [@kubo39]: https://github.com/kubo39
 [@msky026]: https://github.com/msky026
+[@rosylilly]: https://github.com/rosylilly
 <!-- 過去に参加した人のリンクをここに追加していく -->
 
 # 注意
