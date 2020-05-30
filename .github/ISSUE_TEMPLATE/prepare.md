@@ -1,6 +1,6 @@
 ---
 name: 開催準備
-about: 開催準備issueの雛形です。
+about: 開催準備 issue の雛形です。
 ---
 
 # 開催日時
@@ -9,8 +9,8 @@ about: 開催準備issueの雛形です。
 
 # 会場
 
-- Issue (開催準備用): (issueのURLで更新する)
-- Googleハングアウト: (当日更新します)
+- Issue (開催準備用): (issue の URL で更新する)
+- Google ハングアウト: (当日更新します)
 - HackMD: (当日更新します)
 
 # 参加者
@@ -29,10 +29,10 @@ about: 開催準備issueの雛形です。
 
 # 注意
 
-このissueはWeekly Crystal-JP #XXの準備・開催のためのものです。
+この issue は Weekly Crystal-JP #XXの準備・開催のためのものです。
 ここで、参加表明や注意喚起などを行います。
 
-参加したい方は事前にこのissueに「参加します」などとコメントをください。
+参加したい方は事前にこの issue に「参加します」などとコメントをください。
 主催が拾って、上のリストに追加していきます。
 
 - - -
@@ -61,27 +61,27 @@ about: 開催準備issueの雛形です。
 </details>
 
 <details>
-  <summary>TODOリスト</summary>
+  <summary>TODO リスト</summary>
 
   開催前:
 
-  - [ ] 開催準備issueを立てる
+  - [ ] 開催準備 issue を立てる
   - [ ] テンプレートを埋める
     - [ ] 開催日時
-    - [ ] 会場の開催準備Issue
+    - [ ] 会場の開催準備 Issue
     - [ ] 回数
-  - [ ] GitHub Pagesのトップページの開催準備issueへのリンクを更新する
+  - [ ] GitHub Pages のトップページの開催準備 issue へのリンクを更新する
 
   開催直前:
 
   - [ ] 参加者を追加する
-  - [ ] Googleハングアウトを用意する
-  - [ ] HackMDを用意する
-  - [ ] 上記のURLを追加する
+  - [ ] Google ハングアウトを用意する
+  - [ ] HackMD を用意する
+  - [ ] 上記の URL を追加する
 
   開催後:
 
   - [ ] 議事録を書く
-  - [ ] このissueをcloseする
+  - [ ] この issue を close する
 
 </details>
