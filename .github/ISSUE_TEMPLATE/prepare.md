@@ -5,7 +5,7 @@ about: 開催準備 issue の雛形です。
 
 # 開催日時
 
-20XX年XX月XX日 XX時より
+20XX年XX月XX日 (曜日) XX時より
 
 # 会場
 
