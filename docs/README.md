@@ -30,7 +30,7 @@
 
 Weekly Crystal-JP #18 ([開催準備issue](https://github.com/crystal-jp/weekly/issues/31))
 
-**2020年08月01日 (土) 20時**より
+**2020年08月08日 (土) 20時**より
 
 開催時間は1時間程度を予定しています。
 
