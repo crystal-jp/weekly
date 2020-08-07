@@ -16,3 +16,4 @@
   - [#15 (2020/07/13開催)](/minutes/2020-07-13.md "#15 - Weekly Crystal-JP")
   - [#16 (2020/07/18開催)](/minutes/2020-07-18.md "#16 - Weekly Crystal-JP")
   - [#17 (2020/07/24開催)](/minutes/2020-07-24.md "#17 - Weekly Crystal-JP")
+  - [#18 (2020/08/07開催)](/minutes/2020-08-07.md "#18 - Weekly Crystal-JP")
