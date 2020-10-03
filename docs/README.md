@@ -30,7 +30,7 @@
 
 Weekly Crystal-JP #22 ([開催準備issue](https://github.com/crystal-jp/weekly/issues/39))
 
-**2020年10月03日 (土) 20時**より
+**2020年10月10日 (土) 20時**より
 
 開催時間は1時間程度を予定しています。
 
