@@ -57,3 +57,4 @@ Weekly Crystal-JP #22 ([開催準備issue](https://github.com/crystal-jp/weekly/
 - [#19 (2020/08/22開催)](/minutes/2020-08-22.md)
 - [#20 (2020/09/04開催)](/minutes/2020-09-04.md)
 - [#21 (2020/09/26開催)](/minutes/2020-09-26.md)
+- [#22 (2020/10/18開催)](/minutes/2020-10-18.md)
