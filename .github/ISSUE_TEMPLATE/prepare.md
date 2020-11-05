@@ -10,7 +10,7 @@ about: 開催準備 issue の雛形です。
 # 会場
 
 - Issue (開催準備用): (issue の URL で更新する)
-- Google ハングアウト: (当日更新します)
+- Google Meet: (当日更新します)
 - HackMD: (当日更新します)
 
 # 参加者
