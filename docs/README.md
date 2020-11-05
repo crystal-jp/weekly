@@ -30,7 +30,7 @@
 
 Weekly Crystal-JP #24 ([開催準備issue](https://github.com/crystal-jp/weekly/issues/42))
 
-**2020年11月12日 (木) 20時**より
+**2020年11月13日 (金) 20時**より
 
 開催時間は1時間程度を予定しています。
 
