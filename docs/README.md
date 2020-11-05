@@ -21,7 +21,7 @@
 
 開催日の前日までに「開催準備#○○」(○○には回数が入る)というタイトルの issue が[crystal-jp/weekly](https://github.com/crystal-jp/weekly/issues)に作られるので、そちらにコメントで参加表明をしてください。
 
-開催当日は、[主催][@MakeNowJust]がその issue に会場となる Google ハングアウトの URL を貼ります。
+開催当日は、[主催][@MakeNowJust]がその issue に会場となる Google Meet の URL を貼ります。
 そちらから通話に参加してください。
 
 [@MakeNowJust]: https://github.com/MakeNowJust
