@@ -23,3 +23,4 @@
   - [#22 (2020/10/18開催)](/minutes/2020-10-18.md "#22 - Weekly Crystal-JP")
   - [#23 (2020/11/05開催)](/minutes/2020-11-05.md "#23 - Weekly Crystal-JP")
   - [#24 (2020/12/03開催)](/minutes/2020-12-03.md "#24 - Weekly Crystal-JP")
+  - [#25 (2020/12/17開催)](/minutes/2020-12-17.md "#25 - Weekly Crystal-JP")
