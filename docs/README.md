@@ -30,7 +30,7 @@
 
 Weekly Crystal-JP #26 ([開催準備issue](https://github.com/crystal-jp/weekly/issues/44))
 
-**2021年1月7日 (木) 20時**より
+**2021年1月14日 (木) 20時**より
 
 開催時間は1時間程度を予定しています。
 
