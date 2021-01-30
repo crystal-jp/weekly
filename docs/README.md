@@ -6,9 +6,9 @@
 
 # Weekly Crystal-JP
 
-> **Weekly Crystal-JP** は週に一度開催される、[プログラミング言語 Crystal](https://crystal-lang.org/) のオンライン勉強会です。
+> **Weekly Crystal-JP** は週に一度開催される (したい)、[プログラミング言語 Crystal](https://crystal-lang.org/) のオンライン勉強会です。
 
-週に一度[Google ハングアウト](https://hangouts.google.com/)で集まり、次のようなことをしています。
+週に一度[Google Meet](https://apps.google.com/intl/ja/meet/)で集まり、次のようなことをしています。
 
   - 標準ライブラリやコンパイラの開発状況を追う
   - バグの報告をする
@@ -28,9 +28,9 @@
 
 ## 次回予定
 
-Weekly Crystal-JP #26 ([開催準備issue](https://github.com/crystal-jp/weekly/issues/44))
+Weekly Crystal-JP #27 ([開催準備issue](https://github.com/crystal-jp/weekly/issues/45))
 
-**2021年1月30日 (土) 20時**より
+**2021年2月13日 (土) 20時**より
 
 開催時間は1時間程度を予定しています。
 
@@ -61,3 +61,4 @@ Weekly Crystal-JP #26 ([開催準備issue](https://github.com/crystal-jp/weekly/
 - [#23 (2020/11/05開催)](/minutes/2020-11-05.md)
 - [#24 (2020/12/03開催)](/minutes/2020-12-03.md)
 - [#25 (2020/12/17開催)](/minutes/2020-12-17.md)
+- [#26 (2021/01/30開催)](/minutes/2021-01-30.md)
